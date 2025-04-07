@@ -223,8 +223,8 @@ nav ul li:hover .dropdown-content {
     font-family: 'Times New Roman', serif; 
     font-size: 80px; 
     font-weight: 600;
-    color: #DB48A5;
-    text-shadow: 3px 3px 5px rgba(255, 255, 255, 0.7); 
+    color: #ff008c;
+    text-shadow: 3px 3px 5px rgba(0, 255, 60, 0.5); 
     line-height: 1.2; /* Space between */
     text-align: left;
     padding-left: 300px;
@@ -260,7 +260,7 @@ nav ul li:hover .dropdown-content {
     padding: 20px;
     border-radius: 100px;
     transition: background 0.5s, transform 0.5s;
-    color: #DB48A5;
+    color: #ff008c;
     text-align: center;
     position: relative;
 }
@@ -272,7 +272,7 @@ nav ul li:hover .dropdown-content {
 }
 
 .learningoutcome-list a:hover div {
-    background: #f294d0;
+    background: #08e200;
     transform: scale(1.1);
     box-shadow: 0 0 20px rgba(129, 49, 100, 0.7), 0 0 50px rgba(179, 26, 122, 0.5);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -300,8 +300,8 @@ nav ul li:hover .dropdown-content {
 }
 
 .footer {
-    background-color: #DB48A5; 
-    color: #ffffff;
+    background-color: #ff008cb1; 
+    color: #06e611;
     text-align: center;
     padding: 20px 0; 
     font-size: 14px; 
